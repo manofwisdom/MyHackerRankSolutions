@@ -1,6 +1,6 @@
 # MyHackerRankSolutions
-My HackerRank solutions to various HackerRank problems.
-(Aim is to finish all problems of all below mentioned Domains by December 31st 2016.)
+My HackerRank solutions to various HackerRank problems.  
+(Aim is to finish all problems of all below mentioned Domains by December 31st 2016 and post my solutions here)
 
 ## Domains
 * Data Structures

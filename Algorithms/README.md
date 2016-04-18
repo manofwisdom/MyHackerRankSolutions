@@ -1,6 +1,6 @@
 #Algorithms problems Domain of Hackerrank
 
-* Warmup
+* Warmup -DONE!
 * Implementation
 * Strings
 * Sorting
